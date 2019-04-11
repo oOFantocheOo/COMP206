@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538553576 source:c:\users\zhang yuyao\desktop\cs\comp 206\assignments\a2\a2\src\q2_extract_wiki_links.c
+	<stdio.h>
+	<string.h>
+
